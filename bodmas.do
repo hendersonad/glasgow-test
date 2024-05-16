@@ -5,12 +5,16 @@ di 10 + 8 ^ 2 / 6.5 *3.21541
 
 // hello!
 
-<<<<<<< HEAD
 //sharmis added code
-=======
+
+
+
+
+
 
 
 
 
 // this is pardeeps change
->>>>>>> f2fda110faa5e035435705892d772e2867194913
+
+//new to github
